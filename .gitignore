@@ -141,6 +141,7 @@ pip-selfcheck.json
 !.vscode/*.code-snippets
 AoC.code-workspace
 2015
+day8
 
 # Local History for Visual Studio Code
 .history/
@@ -178,3 +179,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
